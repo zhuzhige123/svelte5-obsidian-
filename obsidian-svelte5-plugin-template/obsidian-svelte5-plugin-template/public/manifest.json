@@ -1,0 +1,11 @@
+{
+	"id": "your-plugin-id",
+	"name": "Your Plugin Name",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A modern Obsidian plugin built with Svelte 5",
+	"author": "Your Name",
+	"authorUrl": "https://your-website.com",
+	"fundingUrl": "https://buymeacoffee.com/yourusername",
+	"isDesktopOnly": false
+}
